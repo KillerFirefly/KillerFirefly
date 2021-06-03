@@ -23,4 +23,5 @@ Today I continue to expand my skills and expertise. I love all things multimedia
 
 I've worked directly with well known clients in the entertainment industry including Disney, Star Wars, Marvel, Dreamworks, Ubisoft, Warner Bros, 343 Industries, and more.
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/davidamccully/)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=flat&logo=Firefox&logoColor=white&color=green)](https://davidamccully.com/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/davidamccully/)
